@@ -22,12 +22,6 @@
     "superagent": "*",
     "rimraf": "~2.1.4"
   },
-  "peerDependencies": {
-    "byteup": "~0.1.1",
-    "level-sublevel": "~4.7.1",
-    "levelup": "~0.10.0",
-    "leveldown": "~0.6.2"
-  },
   "scripts": {
     "test": "node test/index.js",
     "benchmark": "node test/index.js"
